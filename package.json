@@ -1,7 +1,7 @@
 {
   "name": "gulp-localization",
   "version": "0.3.0",
-  "description": "A gulp plugin to localization static page with templates.",
+  "description": "gulp plugin for localization static pages using the template",
   "keywords": [
     "gulpplugin",
     "localization",
