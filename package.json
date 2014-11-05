@@ -1,0 +1,32 @@
+{
+  "name": "gulp-localization",
+  "version": "0.3.0",
+  "description": "A gulp plugin to localization static page with templates.",
+  "keywords": [
+    "gulpplugin",
+    "localization",
+    "template",
+    "gulp"
+  ],
+  "author": {
+    "name": "Maxim Victorov",
+    "email": "nkviz40k@gmail.com"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "through2": "~0.6.3",
+    "gulp-util": "~3.0.1",
+    "handlebars": "~2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.0.1",
+    "gulp": "~3.8.9",
+    "assert": "~1.1.2",
+    "stream-assert": "~2.0.2",
+    "should": "~4.1.0"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  }
+}
