@@ -2,12 +2,18 @@
   "name": "gulp-localization",
   "version": "0.3.0",
   "description": "gulp plugin for localization static pages using the template",
+	"homepage": "https://github.com/Notary/gulp-localization",
   "keywords": [
     "gulpplugin",
     "localization",
     "template",
+	"translate",
     "gulp"
   ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Notary/gulp-localization.git"
+	},
   "author": {
     "name": "Maxim Victorov",
     "email": "nkviz40k@gmail.com"
